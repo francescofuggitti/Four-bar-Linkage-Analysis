@@ -4,7 +4,7 @@ This work was done as a homework of Applied Mechanics and Machine course at Univ
 
 The main objective of this homework is to lead a complete analysis on a crank-rocker four bar linkage subjected only to its weight.
 
-The analysis has the aim to find and plot the driving torque C<sub>m<sub> and internal constrained reactions as functions of crank's angle.
+The analysis has the aim to find and plot the driving torque C<sub>m and internal constrained reactions as functions of crank's angle.
 
 In particular the analysis follows 4 phases:
 
